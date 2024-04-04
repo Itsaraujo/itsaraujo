@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/Migalhas de pãoisaraujo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=cobalt"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsaraujo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsaraujo&layout=compact&langs_count=6&theme=cobalt"/>
 </div>
     
 <div style="display: inline_block"><br>
